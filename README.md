@@ -19,6 +19,9 @@ Install the following global node modules
 * `TypeScript` (`npm install -g typescript`)
 * `TSD typings` (`npm install -g tsd`)
 
+Install the local dependency node modules 
+* `node_modules` (`npm install`) or ('npm i')
+
 ## Gitflow
 
 Use the Gitflow to work on this project:
