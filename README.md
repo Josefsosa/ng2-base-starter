@@ -20,6 +20,10 @@ Install the following global node modules
 * `TSD typings` (`npm install -g tsd`)
 
 Install the local dependency node modules 
+* `gulp` (`npm install gulp`)
+* `gulp clean` (`npm install gulp-clean`)
+* `require dire` (`npm install require-dir`)
+
 * `node_modules` (`npm install`) or ('npm i')
 
 ## Gitflow
